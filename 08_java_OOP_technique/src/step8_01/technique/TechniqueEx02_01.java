@@ -85,7 +85,7 @@ class ProductDTO {
 	
 }
 
-public class TechniqueEx02 {
+public class TechniqueEx02_01 {
 
 	public static void main(String[] args) {
 
